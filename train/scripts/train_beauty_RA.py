@@ -242,7 +242,7 @@ if __name__ == "__main__":
 
     if training_args.local_rank == 0:
         print(f"\\nLoading validation dataset...")
-    val_data_path = '/llm-reco-ssd-share/zhangrongzhou/Data/Beauty14/1-2_eval_sid_data.parquet'
+    val_data_path = '../data/training_RA_val.parquet'
     val_dataset = prepare_chat_dataset(val_data_path, local_rank=training_args.local_rank)
     if training_args.local_rank == 0:
         print(f"Loaded raw validation dataset, total samples: {len(val_dataset)}")
