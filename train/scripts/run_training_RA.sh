@@ -5,7 +5,7 @@ export TOKENIZERS_PARALLELISM=false
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "${SCRIPT_DIR}/.."
 
-NUM_TOTAL_EPOCHS=10
+NUM_TOTAL_EPOCHS=2
 INITIAL_MODEL_PATH=$1
 INITIAL_DATA_PATH='../data/training_RA_train.parquet'
 
